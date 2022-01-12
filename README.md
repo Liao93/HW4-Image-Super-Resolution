@@ -12,7 +12,7 @@ Run 'inference.ipynb'.
 You can modify the path on your own machine.
 - 'datasets.zip': including the testing images. It should be at the working directory in default.
 - 'dataroot': this code runs on Colab, so the testing data will be at '/content/datasets/testing_lr_images' after being unzipped.
-- 'SR_model.pkl': the pre-trained model. In default, the file should be moved to the working directory. Download link: 
+- 'SR_model.pkl': the pre-trained model. In default, the file should be moved to the working directory. Download link: https://drive.google.com/file/d/1IX-6Zks7ChNWkitgHxW6NxbPGttLOmVz/view?usp=sharing 
 
 ### Output
 You can modify the path on your own machine.
